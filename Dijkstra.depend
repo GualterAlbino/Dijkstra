@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1697763413 source:d:\gualteralbino\documents\faculdade\faculdade 6-semestre\teoria e modelo de grafos - joás\dijkstra\main.cpp
+	<iostream>
+	<list>
+	<queue>
+	<vector>
+	<stack>
+
